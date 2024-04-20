@@ -1,7 +1,9 @@
 # 2a_Stop_and_Wait_Protocol
-Developed by : MELKIN SAM.D
+```
+Developed by : naresh.r
 
-Register Number : 212223220056
+Register Number : 212223240104
+```
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM

@@ -1,8 +1,7 @@
 # 2a_Stop_and_Wait_Protocol
 ```
-Developed by : naresh.r
-
-Register Number : 212223240104
+### NAME: NARESH.R
+### ROLL NO :212223240104
 ```
 ## AIM 
 To write a python program to perform stop and wait protocol
@@ -42,7 +41,8 @@ while True:
     s.send("Acknowledgement Recived".encode())
 ```
 ## OUTPUT
-![Screenshot (50)](https://github.com/melkingithub/2a_Stop_and_Wait_Protocol/assets/151421291/a674aa5c-c141-4d72-a100-bfb4cb30dac3)
+![image](https://github.com/feryjfgkuyfgewjfgew/2a_Stop_and_Wait_Protocol/assets/150319377/471c1426-c243-44ee-9b66-f5da847a840b)
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.

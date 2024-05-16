@@ -1,8 +1,8 @@
 # 2a_Stop_and_Wait_Protocol
-```
+
 ### NAME: NARESH.R
 ### ROLL NO :212223240104
-```
+
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM

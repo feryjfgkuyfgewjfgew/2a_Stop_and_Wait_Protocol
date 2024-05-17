@@ -41,7 +41,11 @@ while True:
     s.send("Acknowledgement Recived".encode())
 ```
 ## OUTPUT
-![image](https://github.com/feryjfgkuyfgewjfgew/2a_Stop_and_Wait_Protocol/assets/150319377/471c1426-c243-44ee-9b66-f5da847a840b)
+## clint
+![Screenshot 2024-05-17 133516](https://github.com/feryjfgkuyfgewjfgew/2a_Stop_and_Wait_Protocol/assets/150319377/6e15bd9d-b44a-454f-8073-43cba6d804ff)
+
+## server
+![Screenshot 2024-05-17 133457](https://github.com/feryjfgkuyfgewjfgew/2a_Stop_and_Wait_Protocol/assets/150319377/092343ca-5ce3-43fd-a7f9-1a0ffa9b1426)
 
 
 ## RESULT
